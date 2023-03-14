@@ -1,5 +1,5 @@
 # Introduction
-# go-admin
+# go-
 
   <img align="right" width="320" src="https://gitee.com/mydearzwj/image/raw/master/img/go-admin.svg">
 
